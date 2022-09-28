@@ -1,0 +1,9 @@
+14.09.2022 15:26:31 : Wrong input. Please, enter the correct currencyCode and date 'dd.mm.yyyy'
+14.09.2022 15:26:37 : Wrong input. Please, enter the correct currencyCode and date 'dd.mm.yyyy'
+14.09.2022 15:26:53 : Value cannot be null. (Parameter 'Bot doesn't have information about asked currency rate at specified date. Please, check whether the currency is correct.')
+14.09.2022 15:28:15 : Wrong input. Please, enter the correct currencyCode and date 'dd.mm.yyyy'
+14.09.2022 16:47:01 : Value cannot be null. (Parameter 'Bot doesn't have information about asked currency rate at specified date. Please, check whether the currency is correct.')
+14.09.2022 18:49:06 : Wrong input. Please, enter the correct currency code and date 'dd.mm.yyyy'
+14.09.2022 18:49:22 : Wrong input. Please, enter the correct currency code and date 'dd.mm.yyyy'
+14.09.2022 18:49:33 : Wrong input. Please, enter the correct currency code and date 'dd.mm.yyyy'
+14.09.2022 18:50:59 : Wrong input. Please, enter the correct currency code and date 'dd.mm.yyyy'
